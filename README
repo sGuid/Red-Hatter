@@ -5,3 +5,19 @@ basic website using foundation's easy html/css framework
 
 (index.html)
 
+notes to self:
+http://readwrite.com/2013/10/02/github-for-beginners-part-2#awesm=~opwwJOLXwjVoLr
+
+use msysGit - lets you type git commands in cmd terminal  (right click desktop or open the git gui)
+
+commands:
+
+git status
+git init  (say this in a folder so you can start using git commands?)
+
+git add README (line up a file)
+git commit -m "message goes here after the -m command"
+
+git remote -v (see where local repo goes to the remote repo)
+git remote add origin https://github.com/username/RepoNAme.git
+git push   (pushes to remote)
